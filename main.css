@@ -1,1 +1,4 @@
-
+.justBookedDiv {
+    display: flex;
+    flex-wrap: wrap;
+}
